@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.favourite-store-bg-container {
+    background-color: #894bca;
+    height: 200px;
+    width: 100;
+}
+
+.favourite-image-card {
+    height: 200px;
+    width: 150px;
+}
+
+.bottom-section {
+    padding: 10px;
+    text-align: left;
+    font-size: 18px;
+}
+
+.favourite-store-heading {
+    color: #ffffff;
+    font-size: 23px;
+    font-family: "Bree serif";
+    padding: 10px;
+}
+
+.favourite-store-container {
+    margin-right: 15px;
+}
+
+.favourite-store-card {
+    background-color: #ffffff;
+    border-radius: 15px;
+    margin: 5px;
+}
+
+.favourite-store-sectect-heading {
+    color: #f780c3;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.cards-heading {
+    font-family: "Bree Serif";
+    font-size: 20px;
+    color: #323f4b;
+}
+
+.cards-description {
+    font-family: "Bree Serif";
+    font-size: 12pxpx;
+    color: #7b8794;
+}
